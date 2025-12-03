@@ -1,0 +1,7 @@
+packages:
+  # packages  负责所有的前段项目存储的地方
+  - "packages/*"
+  #   components 公共的，给我所有的项目使用的公共组建
+  - "components/**"
+  # 公共的方法 api axios
+  - "api/**"

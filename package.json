@@ -1,0 +1,11 @@
+{
+  "name": "monerepo",
+  "version": "1.0.0",
+  "description": "Rimking",
+  "main": "index.js",
+  "author": "Rimkine",
+  "license": "MIT",
+  "scripts": {},
+  "devDependencies": {
+  }
+}
